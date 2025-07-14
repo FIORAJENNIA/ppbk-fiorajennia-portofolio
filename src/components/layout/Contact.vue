@@ -27,7 +27,7 @@
     <div class="grid md:grid-cols-3 md:text-center gap-8 text-sm text-white/80 mb-10 max-w-4xl mx-auto text-left">
       <div>
         <h3 class="text-secondary font-semibold mb-2">Address</h3>
-        <p>Jl. Karya<br>Pekanbaru, Riau<br>Indonesia</p>
+        <p>Jl. Lestari<br>Pekanbaru, Riau<br>Indonesia</p>
       </div>
       <div>
         <h3 class="text-secondary font-semibold mb-2">Contact</h3>
